@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/gabriel-paz-a819a8236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 ![snake gif](https://github.com/GuiHenriques/GuiHenriques/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 GuiHenriques/GuiHenriques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
