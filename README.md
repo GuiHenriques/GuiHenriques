@@ -1,11 +1,14 @@
 
 <div>
   <a href="https://github.com/GuiHenriques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihenriques&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriques&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihenriques&show_icons=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriques&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <!--
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guihenriques&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guihenriques&theme=react&langs_count=6&layout=compact)]
+
 - 👋 Hi, I’m @GuiHenriques
 - 👀 I’m interested in naps
 - 🌱 I’m currently learning nothing
